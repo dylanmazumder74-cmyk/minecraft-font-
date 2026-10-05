@@ -1,0 +1,18 @@
+{
+  "spec": 1,
+  "name": "Minecraft Ten",
+  "description": "Minecraft Ten font for Revenge Discord Android.",
+  "main": {
+    "ggsans-Normal": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-NormalItalic": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-Medium": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-MediumItalic": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-Semibold": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-SemiboldItalic": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-Bold": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-BoldItalic": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-ExtraBold": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "ggsans-ExtraBoldItalic": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff",
+    "SourceCodePro-Semibold": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/fonts/MinecraftTen.woff"
+  }
+}
